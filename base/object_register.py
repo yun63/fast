@@ -2,7 +2,7 @@
 
 ###############################################################################
 #
-# Copyright © 2018 TU. All Rights Reserved.
+# Copyright © 2018 Fast. All Rights Reserved.
 #
 ###############################################################################
 
@@ -12,9 +12,9 @@
 
 @Description:
 
-@Author: leiyunfei(leiyunfei@tuyoogame.com)
+@Author: leiyunfei(yun63@126.com)
 
-@Depart: 棋牌中心
+@Depart:
 
 @Create: 2018-07-05 19:06:48
 

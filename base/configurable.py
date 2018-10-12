@@ -12,9 +12,9 @@
 
 @Description: 可配置对象
 
-@Author: leiyunfei(leiyunfei@tuyoogame.com)
+@Author: leiyunfei(yun63@126.com)
 
-@Depart: 棋牌中心
+@Depart: 
 
 @Create: 2018-07-05 19:24:23
 

@@ -12,9 +12,9 @@
 
 @Description: 异常
 
-@Author: leiyunfei(leiyunfei@tuyoogame.com)
+@Author: leiyunfei(yun63@126.com)
 
-@Depart: 棋牌中心-斗地主项目组
+@Depart:
 
 @Create: 2017-06-05 16:16:56
 
